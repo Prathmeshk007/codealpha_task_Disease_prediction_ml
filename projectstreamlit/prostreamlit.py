@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 # Load the trained model
-loaded = pickle.load(open(r"C:\Users\91945\Downloads\projectstreamlit\train_model.sav", "rb"))
+loaded = pickle.load(open("train_model.sav", "rb"))
 
 def diabetis(input_data):
     arr = np.asarray(input_data, dtype=float)   # convert to float
@@ -42,4 +42,5 @@ def main():
     st.success(diagnosis)
 
 if __name__ == '__main__':
+
     main()
