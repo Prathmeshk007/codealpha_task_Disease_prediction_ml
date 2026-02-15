@@ -1,4 +1,4 @@
-link=http://localhost:8501/
+link=https://codealphataskdiseasepredictionml-uioeolhec2zfyhsucxv7ym.streamlit.app/
 # Disease Prediction using Machine Learning
 
 ##  Overview
