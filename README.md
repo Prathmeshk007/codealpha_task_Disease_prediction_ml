@@ -1,4 +1,6 @@
-﻿# 🏥 IntelliHealth :An AI Powered Diabetes Prediction System
+link=https://prathmeshk007-codealpha-task-disease-prediction-ml-app-ervicl.streamlit.app/
+ 
+ # 🏥 IntelliHealth :An AI Powered Diabetes Prediction System
 
 ## 📋 Overview
 Machine learning application for predicting diabetes risk using patient health data with intelligent risk categorization.
