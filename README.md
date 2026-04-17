@@ -24,9 +24,3 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 - **Test Accuracy**: 81.8%
 - **Features**: 8 health parameters
 
-## ⚠️ Disclaimer
-⚠️ **For educational purposes only. Not a substitute for professional medical advice.**
-
----
-
-**Made with ❤️ for better healthcare awareness**
